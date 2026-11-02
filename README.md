@@ -1,16 +1,43 @@
-- 👋 Hi, I’m Agung Mubarok. I'm currently a student at Universitas Negeri Surabaya majoring in Electrical Engineering. 
-- 👀 I have a deep interest in technology and programming, especially in fields like full-stack development Internet of things and artificial intelligence.
-- 📚 About Me
-   🔧 During my studies, I've learned programming languages such as Python, C, and C++.
-   🌱 I'm currently participating in the Kampus Merdeka MSIB Program with Ruang Guru, studying "Fullstack Golang & AI: Dari Prinsip Dasar Hingga Aplikasi Praktis".
-   💻 I work with JavaScript for frontend development and Golang for backend development.
--🌟 Projects
-   Here are some of the projects I’ve worked on during my independent study program:
-   1. Student Portal: A web application for managing student data.
-   2. Task Tracker: A productivity tool to help manage time and tasks effectively.
--🔨 Skills
-    Programming Languages: Python, C, C++, JavaScript, Golang
-    Web Development:
-    Frontend: React.js
-    Backend: Golang, RESTful APIs
-    Tools: Git, GitHub
+Hi, I'm Agung Mubarok 👋
+
+Electrical Engineering | Embedded Systems & IoT | Software Development | Exploring AI Automation
+
+I'm an Electrical Engineering student at Universitas Negeri Surabaya (UNESA), currently completing the final graduation process. I enjoy building practical systems that connect hardware, software, and real-world problems.
+
+My work spans embedded development, wireless sensor systems, web dashboards, and automation. I'm currently expanding my skills in AI-assisted software engineering and renewable energy technologies.
+
+🔧 Technical Focus
+
+- Embedded & IoT: ESP32, Arduino, C/C++, sensor integration, LoRa communication, hardware prototyping
+- Software: Python, JavaScript, Go, HTML/CSS, REST APIs
+- Data & Cloud: Firebase Realtime Database, Google Apps Script, dashboards and data workflows
+- Engineering Tools: VS Code, PlatformIO, Git/GitHub, MATLAB, AutoCAD
+
+🚀 Selected Work
+
+Wearable Worker Safety Monitoring — LoRa & Wi-Fi
+
+Academic engineering project involving wearable physiological and environmental sensing, LoRa point-to-point communication, a Wi-Fi gateway, and a real-time monitoring dashboard.
+
+Project documentation and a public-safe code showcase are being prepared.
+
+Web Development & Automation
+
+Hands-on work with browser-based interfaces, data workflows, and small automation tools.
+
+- "RuangPerpus — Library Management Frontend" (https://github.com/Agungbarak/Library)
+- "Go Unit Testing Practice" (https://github.com/Agungbarak/belajar_unittest)
+
+🌱 Currently Learning
+
+- AI agents, developer tools, and software automation
+- Open-source contribution workflows and automated testing
+- Renewable energy systems and applied AI
+
+🤝 Open to Collaboration
+
+I'm interested in embedded systems, IoT prototypes, Python automation, and practical software projects. I value reproducible results, clear documentation, and continuous learning.
+
+---
+
+This profile is being updated as more projects are documented and prepared for public release.
